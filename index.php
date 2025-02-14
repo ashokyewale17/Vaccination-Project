@@ -101,7 +101,7 @@ Reported illnesses have ranged from mild symptoms to severe illness and death</p
           <h2>Prevention</h2>
   <ul>
             <li>Wash your Hands often</li>
-            <li>Wear A Face mask</li>
+            <li>Wear A Face masks</li>
             <li>Avoid contact with sick people</li>
             <li>Always cover your cough or sneeze</li>
           </ul>
